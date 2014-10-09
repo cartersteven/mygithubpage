@@ -1,0 +1,85 @@
+/* CSS Document */
+
+
+/* Controls margins/color on pages */
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	background-color:#fff;
+}
+
+.exp {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	line-height:17px;
+}
+
+/* Link Styling */
+a:link {
+	color: #999999;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #999999;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FF0000;
+}
+a:active {
+	text-decoration: none;
+	color: #00FF00;
+}
+
+
+/* Style for CD Code/Price Descriptors */
+.cdz {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+
+
+
+.footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #999999;
+	padding-right: 12px;
+}
+
+.copyright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #3300ff;
+	font-weight: bold;
+}
+
+.footerline {
+	font-family: Arial Narrow, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+	color: #999999;
+	padding-right: 12px;	
+}
+
+
+.bulletlist {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #CC0000;
+	padding:0;
+}
+
+.raise {
+	height:25px;
+}
+
+.subtext {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	line-height: 17px;
+}

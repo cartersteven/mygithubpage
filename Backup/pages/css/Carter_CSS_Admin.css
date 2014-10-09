@@ -1,0 +1,118 @@
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Racing Sans One', Georgia, "Times New Roman", Times, serif;
+}
+.font-face {
+  font-family: 'Racing Sans One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Racing Sans One'), local('RacingSansOne-Regular'), url(http://themes.googleusercontent.com/static/fonts/racingsansone/v1/1r3DpWaCiT7y3PD4KgkNyEfG_dX2uBwgIpbyM3w5EgE.ttf) format('truetype');
+}
+.footlinks {
+	text-align: center;
+	font-family: "Comic Sans MS", cursive;
+	font-size: 12pt;
+	border-top-style: double;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+}
+#apDiv1 {
+	position: absolute;
+	width: 151px;
+	height: auto;
+	z-index: auto;
+	top: 16px;
+	right: 50%;
+	left: 50%;
+}
+
+
+
+body,td,th {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #000;
+}
+#container #header img {
+	text-align: center;
+}
+
+a {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+a:link {
+	color: #61091F;
+	text-decoration: none;
+}
+a:visited {
+	color: #61091F;
+	text-decoration: none;
+}
+a:hover {
+	color: #A11E23;
+	text-decoration: underline;
+}
+a:active {
+	color: #A11E23;
+	text-decoration: none;
+}
+body {
+	background-image: url(../../images/background.png);
+	background-repeat: repeat-x;
+	background-color: #f5ffc9;
+}
+#container {
+	background-color: #F5FFCA;
+	width: 1000px;
+	margin-right: auto;
+	height: auto;
+	margin-left: auto;
+}
+#header {
+	background-color: #F5FFCA;
+	height: 250px;
+	width: 1000px;
+}
+#links {
+	width: 1000px;
+	height: 40px;
+	background-color: #F5FFCA;
+	padding-bottom: 20px;
+}
+#l_content {
+	background-color: #F5FFCA;
+	height: auto;
+	width: 200px;
+	float: left;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-left-style: none;
+}
+#footer {
+	background-color: #F5FFCA;
+	height: 200px;
+	width: 1000px;
+	clear: both;
+	font-variant: small-caps;
+}
+#r_content {
+	background-color: #F5FFCA;
+	height: auto;
+	width: 795px;
+	float: right;
+}
+.float_r {
+	float: right;
+}
+.float_l {
+	float: left;
+}
+.teacher {
+	background-color: #999;
+	color: #FFF;
+}

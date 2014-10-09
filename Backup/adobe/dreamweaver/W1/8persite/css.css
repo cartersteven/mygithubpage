@@ -1,0 +1,62 @@
+@charset "utf-8";
+#container {
+	height: auto;
+	width: 1000px;
+	border: thin inset #FF0;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #f5ffc9;
+}
+#header {
+	height: 250px;
+	width: auto;
+}
+#links {
+	float: left;
+	height: 300px;
+	width: 180px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+#content {
+	float: right;
+	height: auto;
+	width: 820px;
+	clear: none;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	text-transform: none;
+}
+#footer {
+	clear: both;
+	font-family: Arial, Helvetica, sans-serif;
+	font-variant: small-caps;
+	font-size: x-small;
+	text-align: right;
+}
+a:link {
+	color: #A11E23;
+}
+a:visited {
+	color: #61091F;
+}
+a:hover {
+	color: #5797A3;
+}
+a:active {
+	color: #5797A3;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body {
+	background-color: #F0F7C4;
+	background-image: url(../../../../Dreamweaver/W1/redo_8persite/Media/images/background.jpg);
+	background-repeat: repeat-x;
+}
+.Float_Right {
+	float: right;
+}
+.Float_Left {
+	float: left;
+}

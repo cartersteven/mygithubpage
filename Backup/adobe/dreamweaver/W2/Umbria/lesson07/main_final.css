@@ -1,0 +1,40 @@
+@charset "utf-8";
+body  {
+	background: #FFFFFF;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+#wrapper { 
+	width: 760px; 
+	margin: 0 auto; 
+	text-align: left; 
+}
+#header {
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+#logo {
+	height: 71px;
+	padding-bottom: 12px;
+}
+#content {
+	margin-top: 0px;
+	padding-top: 0px;
+}
+#leftColumn {
+	float: left;
+	width: 365px;
+}
+#rightColumn {
+	float: right;
+	width: 365px;
+}
+#footer {
+	clear: both;
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+#nav { height: 28px; 
+}
+#banner { height: 200px; }

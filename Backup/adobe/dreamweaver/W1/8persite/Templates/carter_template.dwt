@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<script src="../../../../../Dreamweaver/W1/redo_8persite/SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<link href="../../../../../Dreamweaver/W1/redo_8persite/css.css" rel="stylesheet" type="text/css" />
+<link href="../../../../../Dreamweaver/W1/redo_8persite/SpryAssets/SpryMenuBarVertical.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="container">
+  <div id="header">
+    <p><img src="../../../../../Dreamweaver/W1/redo_8persite/Media/images/banner_01.gif" width="1000" height="250" alt="banner" /></p>
+  </div>
+  <div id="links">
+    <ul id="MenuBar1" class="MenuBarVertical">
+      <li><a href="/carter/Index.html" title="Home">Home</a></li>
+      <li><a href="/carter/pages/web_1.html" title="Web1" class="MenuBarItemSubmenu">Web1</a>
+        <ul>
+          <li><a href="/carter/pages/dreamweaver.html" title="Dreamweaver">Dreamweaver</a></li>
+          <li><a href="/carter/pages/fireworks.html" title="Fireworks" class="MenuBarItemSubmenu">Fireworks</a>
+            <ul>
+              <li><a href="/carter/pages/fireworks.html#a_unit" title="Unit A">Unit A</a></li>
+              <li><a href="/carter/pages/fireworks.html#b_unit" title="Unit B">Unit B</a></li>
+              <li><a href="/carter/pages/fireworks.html#c_unit" title="Unit C">Unit C</a></li>
+              <li><a href="/carter/pages/fireworks.html#d_unit" title="Unit D">Unit D</a></li>
+              <li><a href="/carter/pages/fireworks.html#f_unit" title="Unit f">Unit F</a></li>
+              <li><a href="/carter/pages/fireworks.html#g_unit" title="Unit G">Unit G</a></li>
+            </ul>
+          </li>
+          <li><a href="/carter/pages/flash.html" title="Flash" class="MenuBarItemSubmenu">Flash</a>
+            <ul>
+              <li><a href="../../../../../Dreamweaver/W1/redo_8persite/pages/flash.html#les1" title="Lesson 1">Lesson 1</a></li>
+              <li><a href="../../../../../Dreamweaver/W1/redo_8persite/pages/flash.html#les2" title="Lesson 2">Lesson 2</a></li>
+              <li><a href="../../../../../Dreamweaver/W1/redo_8persite/pages/flash.html#les3" title="Lesson 3">Lesson 3</a></li>
+              <li><a href="#" title="Lesson 4">Lesson 4</a></li>
+              <li><a href="../../../../../Dreamweaver/W1/redo_8persite/pages/flash.html#les5" title="Lesson 5">Lesson 5</a></li>
+              <li><a href="../../../../../Dreamweaver/W1/redo_8persite/pages/flash.html#final" title="Final Animation">Final Animation</a></li>
+            </ul>
+          </li>
+          <li><a href="/carter/pages/photoshop.html" title="Photoshop">Photoshop</a></li>
+        </ul>
+      </li>
+      <li><a href="/carter/pages/School.html" title="School">School</a></li>
+      <li><a href="/carter/pages/contact.html" title="Contact">Contact</a></li>
+      <li><a href="/carter/pages/personal.html" title="Personal">Personal</a></li>
+    </ul>
+    <!-- TemplateBeginEditable name="detail" -->detail<!-- TemplateEndEditable --></div>
+  <div id="content"><!-- TemplateBeginEditable name="content" -->
+    <h1>Title of Section</h1>
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel leo elit, vitae lacinia purus. Nunc feugiat ipsum in magna bibendum sed dignissim nibh pulvinar. Curabitur vitae dui et tellus commodo bibendum. Morbi felis mi, tempus vel pellentesque a, pellentesque id neque. Praesent faucibus, purus at varius faucibus, turpis ipsum eleifend nulla, et euismod metus lacus ut nulla. Nunc lectus massa, luctus eget porttitor vel, ultrices vitae urna. Quisque egestas iaculis justo, ac placerat massa suscipit vitae. Vivamus lobortis varius adipiscing. Nulla rutrum, mauris nec molestie hendrerit, tortor libero adipiscing lectus, eget ullamcorper massa lacus in ante. </p>
+    <h2>Heading 2</h2>
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus ante, egestas ac semper vitae, pellentesque congue dui. Ut massa massa, blandit non euismod id, viverra vel mi. Mauris sit amet ligula a mi elementum adipiscing et vitae mi. Quisque quam tellus, laoreet non mollis nec, euismod sed diam. Duis ut urna arcu, id fringilla purus. Suspendisse eget magna mauris, sed ultrices quam. Nulla et mauris tortor, sit amet fermentum lacus. Aliquam vitae auctor ipsum. Proin eget est aliquet est gravida luctus. Proin commodo, ante et volutpat vestibulum, lacus mauris dictum leo, et eleifend eros risus sit amet eros. Vestibulum mollis vulputate metus, ac condimentum ante mollis nec. Ut consectetur malesuada dui vulputate vestibulum. Mauris suscipit, ante gravida feugiat sollicitudin, orci tortor dictum mi, sed gravida eros massa eu nibh. Nulla interdum nulla tristique diam facilisis vel gravida massa volutpat. Phasellus tristique, nulla non fringilla scelerisque, arcu lectus eleifend ligula, vel blandit, nibh metus et eros. </p>
+  <!-- TemplateEndEditable --></div>
+<p>&nbsp;</p>
+  <div id="footer">
+    <p><a href="../../../../../Dreamweaver/W1/redo_8persite/index.html">Home</a> | <a href="/carter/pages/Web1.html">Web1</a> | <a href="/carter/pages/dreamweaver.html">DREAMWEAVER</a> |<a href="/carter/pages/fireworks.html"> FIREWORKS</a> | <a href="/carter/pages/flash.html">FLASH</a> | <a href="/carter/pages/photoshop.html">PHOTOSHOP</a> |<a href="/carter/pages/School.html"> SCHOOL</a> | <a href="../../../../../Dreamweaver/W1/redo_8persite/pages/contact.html">CONTACT</a> |<a href="/carter/pages/personal.html"> PERSONAL </a><br />
+    </p>
+    <p>Carter Web Design 2012 - Pesonal Website for Web1<br />
+      Contact Me <a href="mailto:jimmybuffettfan@ymail.com" title="jimmybuffettfan@ymail.com">jimmybuffettfan@ymail.com</a></p>
+  </div>
+  <p>&nbsp;</p>
+</div>
+<script type="text/javascript">
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgRight:"/carter/SpryAssets/SpryMenuBarRightHover.gif"});
+</script>
+</body>
+</html>
+<div id="footer">Content for  id "</div>

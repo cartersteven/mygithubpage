@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Hardware Devices</title>
+<style type="text/css">
+body,td,th {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #000000;
+}
+body {
+	background-color: #ffffcc;
+}
+</style>
+</head>
+
+<body>
+<p><a href="file:///D|/School/Web Design 2/Local_Sites/Dreamweaver/W1/HD1/index.html">HARDWARE</a> |  <a href="file:///D|/School/Web Design 2/Local_Sites/Dreamweaver/W1/HD1/pages/software.html">SOFTWARE</a></p>
+<h2>HARDWARE DEVICES USED IN MY WEB PAGES</h2>
+<p><em>By Steven Carter</em></p>
+<p><img src="file:///D|/School/Web Design 2/Local_Sites/Dreamweaver/W1/HD1/images/camera.gif" width="256" height="160" alt="Digital Camera" /></p>
+<p>This is a Digital Camera. I can download pictures from my camera to my computer and insert them into my Web pages.</p>
+<p><img src="file:///D|/School/Web Design 2/Local_Sites/Dreamweaver/W1/HD1/images/cd-rom.gif" width="231" height="160" alt="CD-ROM" /></p>
+<p>This is a CD-ROM. I can copy text, pictures, sound, and video stored on CD-ROMs into my Web pages.</p>
+<p><img src="file:///D|/School/Web Design 2/Local_Sites/Dreamweaver/W1/HD1/images/scanner.gif" width="216" height="160" alt="Document Scanner" /></p>
+<p>This is a scanner. The scanner creates digital files of the images it scans. I can insert these files into my Web pages.</p>
+</body>
+</html>

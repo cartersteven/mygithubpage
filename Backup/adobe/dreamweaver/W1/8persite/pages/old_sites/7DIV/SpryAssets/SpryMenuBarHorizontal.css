@@ -1,0 +1,5 @@
+@charset "UTF-8";
+/* HACK FOR IE: to stabilize appearance of menu items; the slash in float is to keep IE 5.0 from parsing */
+@media screen, projection
+{
+}

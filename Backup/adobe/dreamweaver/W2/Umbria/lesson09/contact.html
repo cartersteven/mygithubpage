@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Contact Here and Back Travel</title>
+<!--[if IE 5]>
+<style type="text/css"> 
+/* place css box model fixes for IE 5* in this conditional comment */
+.twoColFixLtHdr #sidebar1 { width: 230px; }
+</style>
+<![endif]--><!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.twoColFixLtHdr #sidebar1 { padding-top: 30px; }
+.twoColFixLtHdr #mainContent { zoom: 1; }
+/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+</style>
+<![endif]-->
+<link href="../../../../../Dreamweaver/W2/Umbria/lesson09/mystyles.css" rel="stylesheet" type="text/css" />
+<link href="../../../../../Dreamweaver/W2/Umbria/lesson09/print.css" rel="stylesheet" type="text/css" media="print" />
+<script src="../../../../../Dreamweaver/W2/Umbria/SpryAssets/SpryValidationTextField.js" type="text/javascript"></script>
+<script src="../../../../../Dreamweaver/W2/Umbria/SpryAssets/SpryValidationPassword.js" type="text/javascript"></script>
+<script src="../../../../../Dreamweaver/W2/Umbria/SpryAssets/SpryValidationConfirm.js" type="text/javascript"></script>
+<script src="../../../../../Dreamweaver/W2/Umbria/SpryAssets/SpryValidationRadio.js" type="text/javascript"></script>
+<link href="../../../../../Dreamweaver/W2/Umbria/SpryAssets/SpryValidationTextField.css" rel="stylesheet" type="text/css" />
+<link href="../../../../../Dreamweaver/W2/Umbria/SpryAssets/SpryValidationPassword.css" rel="stylesheet" type="text/css" />
+<link href="../../../../../Dreamweaver/W2/Umbria/SpryAssets/SpryValidationConfirm.css" rel="stylesheet" type="text/css" />
+<link href="../../../../../Dreamweaver/W2/Umbria/SpryAssets/SpryValidationRadio.css" rel="stylesheet" type="text/css" />
+<link href="../../../../../Dreamweaver/W2/Umbria/lesson09/forms.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+
+<body class="twoColFixLtHdr">
+
+<div id="container">
+  <div id="header">
+    <h1>Contact Here and Back Travel</h1>
+  <!-- end #header --></div>
+  <div id="sidebar1"><img src="../../../../../Dreamweaver/W2/Umbria/images/city.jpg" width="200" height="391" alt="a happy couple on the Santoniri sand" />
+    <p>Contact us by phone, email, or stop by our main office in New York City.<br />
+      <!-- end #sidebar1 -->
+        </p>
+  </div>
+  <div id="mainContent">
+    <h1>How can we help you?    </h1>
+    <form id="form1" name="form1" method="post" action="../../../../../Dreamweaver/W2/Umbria/lesson09/form_processing.html">
+      <fieldset><legend>Your Contact Information</legend><label for="name">Name</label>
+      <input type="text" name="name" id="name" /><br />
+      <span id="sprytextfield1">
+      <label for="email">Email</label>
+      <input type="text" name="email" id="email" />
+      <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldInvalidFormatMsg">Invalid format.</span></span></fieldset>
+      <fieldset>
+        <legend>Online Tools</legend>
+        <p>For online access to your itinerary and travel plans, please set up a username and password. <em>Your username must contain at least 6 characters. Your password must contain at least 8 characters, at least two of them numbers.</em></p>
+        <p><span id="sprytextfield2">
+          <label for="username">Username</label>
+          <input type="text" name="username" id="username" />
+          <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldMinCharsMsg">Minimum number of characters not met.</span></span><br />
+          <span id="sprypassword1">
+          <label for="password">Password</label>
+          <input type="password" name="password" id="password" />
+          <span class="passwordRequiredMsg">A value is required.</span><span class="passwordMinCharsMsg">Minimum number of characters not met.</span><span class="passwordInvalidStrengthMsg">The password doesn't meet the specified strength.</span></span><br />
+          <span id="spryconfirm1">
+          <label for="confirmpw">Repeat Password</label>
+          <input type="password" name="confirmpw" id="confirmpw" />
+          <span class="confirmRequiredMsg">A value is required.</span><span class="confirmInvalidMsg">The values don't match.</span></span></p>
+      </fieldset>
+      <fieldset>
+        <legend>Your Trip</legend>
+        <p>
+          <label for="plans">Travel Plans<br />
+          </label>
+          <textarea name="plans" id="plans" cols="45" rows="5">Briefly describe where you would like to go and for how long</textarea>
+        </p>
+        <p>How many will be traveling in your group?</p>
+        <p><span id="spryradio1">
+          <label>
+            <input type="radio" name="RadioGroup1" value="one" id="RadioGroup1_0" />
+            One</label>
+          <br />
+          <label>
+            <input type="radio" name="RadioGroup1" value="two" id="RadioGroup1_1" />
+            Two</label>
+          <br />
+          <label>
+            <input type="radio" name="RadioGroup1" value="three" id="RadioGroup1_2" />
+            Three</label>
+          <br />
+          <label>
+            <input type="radio" name="RadioGroup1" value="four" id="RadioGroup1_3" />
+            Four</label>
+          <br />
+          <label>
+            <input type="radio" name="RadioGroup1" value="more" id="RadioGroup1_4" />
+            More</label>
+          <br />
+        <span class="radioRequiredMsg">Please make a selection.</span></span></p>
+<p>What services would you like for us to arrange for you?</p>
+<p>
+  <label>
+    <input type="checkbox" name="CheckboxGroup1" value="tours" id="CheckboxGroup1_0" />
+    Tours</label>
+  <br />
+  <label>
+    <input type="checkbox" name="CheckboxGroup1" value="checkbox" id="CheckboxGroup1_1" />
+    Checkbox</label>
+  <br />
+  <label>
+    <input type="checkbox" name="CheckboxGroup1" value="hotels" id="CheckboxGroup1_2" />
+    Hotels</label>
+</p>
+<p>When do you plan to travel?</p>
+<p>
+  <select name="timeline" id="timeline">
+    <option value="immediately" selected="selected">Immediately</option>
+    <option value="withintwomonths">Within the next two months</option>
+    <option value="thisyear">Sometime this year</option>
+  </select>
+</p>
+<p>  <br />
+</p>
+      </fieldset>
+      <p>
+        <input type="submit" name="submit" id="submit" value="Submit" />
+      </p>
+    </form>
+  </div>
+	<!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --><br class="clearfloat" />
+  <div id="footer">
+    <p>Here and Back Travel<br />
+    Contact Us</p>
+  <!-- end #footer --></div>
+<!-- end #container --></div>
+<script type="text/javascript">
+<!--
+var sprytextfield1 = new Spry.Widget.ValidationTextField("sprytextfield1", "email", {validateOn:["blur"]});
+var sprytextfield2 = new Spry.Widget.ValidationTextField("sprytextfield2", "none", {validateOn:["blur"], minChars:6});
+var sprypassword1 = new Spry.Widget.ValidationPassword("sprypassword1", {minChars:8, minNumbers:2, validateOn:["blur"]});
+var spryconfirm1 = new Spry.Widget.ValidationConfirm("spryconfirm1", "password", {validateOn:["blur"]});
+var spryradio1 = new Spry.Widget.ValidationRadio("spryradio1");
+//-->
+</script>
+</body>
+</html>

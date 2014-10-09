@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clients>
+  <client>
+    <company>Company Anon</company>
+    <tagline>Microwave technology for signal propogation</tagline>
+    <desc>
+      <![CDATA[Company Anon is the most sophisticated tele communication company in North America, known for its high-end connectivity. We arrange travel details for all the workers in the company, but in the U.S. and abroad.]]>
+    </desc>
+    <work>
+      <![CDATA[<ul>
+        <li>Corporate rebranding</li>
+        <li>Web site redesign</li>
+        <li>Full identity makeover including new logo</li>
+        <li>White paper consultation and editing</li>
+        </ul>]]>
+    </work>
+    <startdate>2005</startdate>
+  </client>
+  <client>
+    <company>Lit City, LLC</company>
+    <tagline>Illuminated thinking for you and yours</tagline>
+    <desc>
+      <![CDATA[Visit Lit City for the brightest, clearest environments you have ever experienced. Lit City employees travel frequently to Japan and China using our services]]>
+    </desc>
+    <work>
+      <![CDATA[<ul>
+        <li>Press relations overhaul</li>
+        <li>Full identity makeover including new logo</li>
+        <li>Corporate rebranding</li>
+        <li>Web site redesign</li>
+        <li>White paper consultation and editing</li>
+        </ul>]]>
+    </work>
+    <startdate>2001</startdate>
+  </client>
+  <client>
+    <company>CarryAll Inc.</company>
+    <tagline>The right way to move your goods</tagline>
+    <desc>
+      <![CDATA[Universal, classy portage comes from CarryAll. CarryAll is expanding world wide and our travel services smooth the process for everyone in the company.]]>
+    </desc>
+    <work>
+      <![CDATA[<ul>
+        <li>Presentation workshops</li>
+        <li>White paper consultation and editing</li>
+        <li>Web site redesign</li>
+        <li>Corporate rebranding</li>
+        <li>Full identity makeover including new logo</li>
+        </ul>]]>
+    </work>
+    <startdate>2003</startdate>
+  </client>
+</clients>

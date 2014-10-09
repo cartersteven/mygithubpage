@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html>
+
+<!-- TemplateBeginEditable name="header" --><head>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38933680-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<link href='http://fonts.googleapis.com/css?family=Racing+Sans+One&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link href="../pages/css/menu_style.css" rel="stylesheet" type="text/css">
+<style type="text/css"></style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Untitled Document</title>
+<link href="../pages/css/Carter_CSS.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" type="image/x-icon" href="../images/favicon.ico">
+</head><!-- TemplateEndEditable -->
+
+<body>
+<div id="container">
+  <div id="header" align="center"><img src="../adobe/illustrator/Trendy_Banner.png" width="1000" height="232"></div>
+  <div id="links"><!-- Start css3menu.com BODY section -->
+<ul id="css3menu1" class="topmenu">
+	<li class="topmenu"><a href="../index.html" title="Home" style="height:48px;line-height:48px;"><img src="../menu/home.png" alt=""/>Home</a></li>
+	<li class="topmenu"><a href="../pages/personal.html" title="Personal" style="height:48px;line-height:48px;"><img src="../menu/personal.png" alt=""/>Personal</a></li>
+	<li class="topmenu"><a href="../pages/links.html" title="Links" style="height:48px;line-height:48px;"><img src="../menu/links.png" alt=""/>Links</a></li>
+	<li class="topmenu"><a href="../pages/school.html" title="School" style="height:48px;line-height:48px;"><img src="../menu/school.png" alt=""/>School</a></li>
+	<li class="toproot"><a href="../pages/web2.html" title="Web2" style="height:48px;line-height:48px;"><span><img src="../menu/web2.png" alt=""/>Web 2</span></a>
+	<ul>
+		<li><a href="../pages/adobe/dw.html" title="Dreamweaver"><img src="../menu/dw.png" alt="DW"/>Dreamweaver</a></li>
+		<li><a href="../pages/adobe/ps.html" title="Photoshop"><img src="../menu/ps.png" alt="PS"/>Photoshop</a></li>
+		<li><a href="../pages/adobe/ai.html" title="Illustrator"><img src="../menu/ai.png" alt="AI"/>Illustrator</a></li>
+		<li><a href="../pages/adobe/fl.html" title="Flash"><img src="../menu/fl.png" alt="FL"/>Flash</a></li>
+		<li><a href="../pages/adobe/fw.html" title="Fireworks"><img src="../menu/fw.png" alt="FW"/>Fireworks</a></li>
+        <li><a href="../pages/adobe/pr.html" title="Premiere"><img src="../menu/pr.png" alt"PR">Premiere</a></li>
+		<li><a href="../pages/acascores.html" title="ACA Scores"><img src="../menu/adobe.png" alt="ADOBE"/>ACA Scores</a></li>
+		<li><a href="../pages/miscwork.html" title="Miscellaneous"><img src="../menu/misc.png" alt="MISC"/>Miscellaneous</a></li>
+	</ul></li>
+	<li class="toplast"><a href="../pages/contact.html" title="Contact Me" style="height:48px;line-height:48px;"><img src="../menu/contact.png" alt=""/>Contact Me</a></li>
+</ul>
+<!-- End css3menu.com BODY section --></div>
+  <div id="l_content"><!-- TemplateBeginEditable name="content_l" -->
+    <h2>Donec porttitor sem</h2>
+    <p> ac mauris hendrerit porta. Suspendisse a est lectus, vel molestie felis. Donec a enim est. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam vel sem elit. Proin tristique mi sed felis dictum ac tempus nisl lacinia. Curabitur pharetra dolor vel dui </p>
+    <p>&nbsp;</p>
+  <!-- TemplateEndEditable --></div>
+  <div id="r_content"><!-- TemplateBeginEditable name="content_r" -->
+    <h1>Lorem ipsum H1</h1>
+    <p> dolor sit amet, consectetur adipiscing elit. Pellentesque non ante lorem, ac auctor ante. Nunc vitae eros quis risus<img src="../images/colors.jpg" alt="Kuler" width="212" height="113" class="float_r"> blandit vulputate. Duis rutrum, lorem in cursus imperdiet, nulla massa mollis ligula, ac varius quam nisi tempor tortor. Etiam varius, lacus sit amet commodo luctus, orci neque suscipit ipsum, quis venenatis velit elit eu turpis. Donec non cursus erat. Fusce ligula orci, laoreet nec volutpat at, mollis eu eros. Aliquam erat volutpat. Integer feugiat auctor venenatis. Integer tincidunt nisl ac metus volutpat dictum. Suspendisse elementum, arcu sollicitudin molestie tempor, quam elit tempus quam, sit amet volutpat quam tortor nec urna. In non enim ac metus pellentesque sollicitudin. Morbi adipiscing tempor ante, eu pharetra lectus sollicitudin a. Aenean condimentum enim quis nisi viverra ut ornare dui pellentesque. Nam lacinia, ipsum et placerat ultricies, lectus nisi posuere enim, viverra ultricies dolor dui in mauris. Donec fringilla posuere nibh, sed suscipit nulla hendrerit ut.  </p>
+  <!-- TemplateEndEditable --></div>
+  <div id="footer">
+    <div class="footlinks">
+      <p><a href="../index.html">Home</a> | <a href="../pages/personal.html">Personal</a> | <a href="../pages/links.html">Links</a> | <a href="../pages/school.html">School</a> | <a href="../pages/web2.html">Web 2</a> | <a href="../pages/contact.html">Contact Me</a> | <a href="../pages/acascores.html">ACA Scores</a> | <a href="../pages/miscwork.html">Miscellaneous Work</a><br>
+        <a href="../pages/adobe/ai.html">Illustrator</a>| 
+      <a href="../pages/adobe/dw.html">Dreamweaver</a> | <a href="../pages/adobe/fl.html">flash</a> | <a href="../pages/adobe/fw.html">Fireworks</a> | <a href="../pages/adobe/ps.html">Photoshop</a></p>
+      <p>I Passed the primary aca's</p>
+      <p>Download the Rubin LOL <a href="images/ACA-Certification-Rubin.png" title="LOL" target="_blank">Here</a>!</p>
+    </div>
+    <p><img src="../images/mangatar.jpg" width="60" height="60" alt="Carter_Mangatar"> <a href="mailto:carter.j.steven@gmail.com">E-mail</a> the webmaster<br>
+      Last Updated: <!-- #BeginDate format:En2a -->22-Mar-2013 12:20 PM<!-- #EndDate --></p>
+  </div>
+</div>
+</body>
+</html>

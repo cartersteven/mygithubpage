@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	background-color: #020202;
+}
+body,td,th {
+	color: #466c8c;
+	font-family: Arial, Helvetica, sans-serif;
+}
+a {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	color: #466c8c;
+}
+a:visited {
+	color: #a0c3d9;
+	text-decoration: none;
+}
+a:active {
+	color: #0e2940;
+	text-decoration: none;
+}
+a:link {
+	color: #153488;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: #0e2940;
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+<link href='http://fonts.googleapis.com/css?family=Racing+Sans+One&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link href="../pages/css/menu_style.css" rel="stylesheet" type="text/css">
+<link href="../pages/css/Carter_CSS_Admin.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="header" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Untitled Document</title>
+<link rel="shortcut icon" type="image/x-icon" href="../images/favicon.ico">
+</head><!-- TemplateEndEditable -->
+
+<body>
+<div id="apDiv1">Hello, Steven| <a href="../index.html" target="_self">Logout</a></div>
+<div id="container">
+  <div id="header" align="center"><img src="../adobe/illustrator/Trendy_Banner.png" width="1000" height="232"></div>
+  <div id="links"><!-- Start css3menu.com BODY section -->
+<ul id="css3menu1" class="topmenu">
+	<li class="topmenu"><a href="../pages/admin/index.html" title="Home" style="height:48px;line-height:48px;"><img src="../menu/home.png" alt=""/>Home</a></li>
+	<li class="topmenu"><a href="../pages/admin/pages/personal.html" title="Personal" style="height:48px;line-height:48px;"><img src="../menu/personal.png" alt=""/>Personal</a></li>
+	<li class="topmenu"><a href="../pages/admin/pages/links.html" title="Links" style="height:48px;line-height:48px;"><img src="../menu/links.png" alt=""/>Links</a></li>
+	<li class="topmenu"><a href="../pages/admin/pages/school.html" title="School" style="height:48px;line-height:48px;"><img src="../menu/school.png" alt=""/>School</a></li>
+	<li class="toproot"><a href="../pages/admin/pages/web2.html" title="Web2" style="height:48px;line-height:48px;"><span><img src="../menu/web2.png" alt=""/>Web 2</span></a>
+	<ul>
+		<li><a href="../pages/admin/pages/adobe/dw.html" title="Dreamweaver"><img src="../menu/dw.png" alt=""/>Dreamweaver</a></li>
+		<li><a href="../pages/admin/pages/adobe/ps.html" title="Photoshop"><img src="../menu/ps.png" alt=""/>Photoshop</a></li>
+		<li><a href="../pages/admin/pages/adobe/ai.html" title="Illustrator"><img src="../menu/ai.png" alt=""/>Illustrator</a></li>
+		<li><a href="../pages/admin/pages/adobe/fl.html" title="Flash"><img src="../menu/fl.png" alt=""/>Flash</a></li>
+		<li><a href="../pages/admin/pages/adobe/fw.html" title="Fireworks"><img src="../menu/fw.png" alt=""/>Fireworks</a></li>
+		<li><a href="../pages/admin/pages/acascores.html" title="ACA Scores"><img src="../menu/adobe.png" alt=""/>ACA Scores</a></li>
+		<li><a href="../pages/admin/pages/miscwork.html" title="Miscellaneous"><img src="../menu/misc.png" alt=""/>Miscellaneous</a></li>
+	</ul></li>
+	<li class="toplast"><a href="../pages/admin/pages/contact.html" title="Contact Me" style="height:48px;line-height:48px;"><img src="../menu/contact.png" alt=""/>Contact Me</a></li>
+</ul>
+<!-- End css3menu.com BODY section --></div>
+  <div id="l_content"><!-- TemplateBeginEditable name="content_l" -->
+    <h2>Donec porttitor sem</h2>
+    <p> ac mauris hendrerit porta. Suspendisse a est lectus, vel molestie felis. Donec a enim est. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam vel sem elit. Proin tristique mi sed felis dictum ac tempus nisl lacinia. Curabitur pharetra dolor vel dui </p>
+    <p>&nbsp;</p>
+  <!-- TemplateEndEditable --></div>
+  <div id="r_content"><!-- TemplateBeginEditable name="content_r" -->
+    <h1>Lorem ipsum H1</h1>
+    <p> dolor sit amet, consectetur adipiscing elit. Pellentesque non ante lorem, ac auctor ante. Nunc vitae eros quis risus<img src="../images/colors.jpg" alt="Kuler" width="212" height="113" class="float_r"> blandit vulputate. Duis rutrum, lorem in cursus imperdiet, nulla massa mollis ligula, ac varius quam nisi tempor tortor. Etiam varius, lacus sit amet commodo luctus, orci neque suscipit ipsum, quis venenatis velit elit eu turpis. Donec non cursus erat. Fusce ligula orci, laoreet nec volutpat at, mollis eu eros. Aliquam erat volutpat. Integer feugiat auctor venenatis. Integer tincidunt nisl ac metus volutpat dictum. Suspendisse elementum, arcu sollicitudin molestie tempor, quam elit tempus quam, sit amet volutpat quam tortor nec urna. In non enim ac metus pellentesque sollicitudin. Morbi adipiscing tempor ante, eu pharetra lectus sollicitudin a. Aenean condimentum enim quis nisi viverra ut ornare dui pellentesque. Nam lacinia, ipsum et placerat ultricies, lectus nisi posuere enim, viverra ultricies dolor dui in mauris. Donec fringilla posuere nibh, sed suscipit nulla hendrerit ut.  </p>
+  <!-- TemplateEndEditable --></div>
+  <div id="footer">
+    <div class="footlinks">
+      <p><a href="../pages/admin/index.html">Home</a> | <a href="../pages/admin/pages/personal.html">Personal</a> | <a href="../pages/admin/pages/links.html">Links</a> | <a href="../pages/admin/pages/school.html">School</a> | <a href="../pages/admin/pages/web2.html">Web 2</a> | <a href="../pages/admin/pages/contact.html">Contact Me</a> | <a href="../pages/admin/pages/acascores.html">ACA Scores</a> | <a href="../pages/admin/pages/miscwork.html">Miscellaneous Work</a><br>
+        <a href="../pages/admin/pages/adobe/ai.html">Illustrator</a>| 
+      <a href="../pages/admin/pages/adobe/dw.html">Dreamweaver</a> | <a href="../pages/admin/pages/adobe/fl.html">flash</a> | <a href="../pages/admin/pages/adobe/fw.html">Fireworks</a> | <a href="../pages/admin/pages/adobe/ps.html">Photoshop</a></p>
+      <p>I Passed The ACA For Dreamweaver!</p>
+      <p>Download the Rubin LOL <a href="images/ACA-Certification-Rubin.png" title="LOL" target="_blank">Here</a>!</p>
+    </div>
+    <p><img src="../images/mangatar.jpg" width="60" height="60" alt="Carter_Mangatar"> <a href="mailto:carter.j.steven@gmail.com">E-mail</a> the webmaster<br>
+      Last Updated: <!-- #BeginDate format:En2a -->20-Feb-2013 1:40 PM<!-- #EndDate -->
+    </p>
+  </div>
+</div>
+</body>
+</html>

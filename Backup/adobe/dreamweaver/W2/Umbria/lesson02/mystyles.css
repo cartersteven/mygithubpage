@@ -1,0 +1,105 @@
+.Employee_Info {
+	background-color: #ccc;
+	border: thin solid #000;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+ 
+body  {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	background: #FFF;
+	margin: 0; 
+	padding: 0;
+	text-align: center; 
+	color: #000;
+}
+.twoColFixLtHdr #container {
+	width: 780px;
+	margin: 0 auto;
+	border: 1px solid #000000;
+	text-align: left;
+	background-color: #FFFFFF;
+} 
+.twoColFixLtHdr #header {
+	padding: 0 10px 0 20px;
+	background-image: url(../../../../../Dreamweaver/W2/Umbria/images/cloud_header.jpg);
+	background-repeat: no-repeat;
+} 
+.twoColFixLtHdr #header h1 {
+	margin: 0; 
+	padding: 10px 0; 
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FFF;
+}
+
+.twoColFixLtHdr #sidebar1 {
+	float: left;
+	width: 200px;
+	padding: 15px 10px 15px 20px;
+}
+.twoColFixLtHdr #mainContent {
+	margin: 0 0 0 250px; 
+	padding: 0 20px; 
+	font-size: 90%;
+} 
+.twoColFixLtHdr #footer {
+	padding: 0 10px 0 20px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #666;
+	border-right-color: #666;
+	border-bottom-color: #666;
+	border-left-color: #666;
+	background-color: #fff;
+	background-image: url(../../../../../Dreamweaver/W2/Umbria/images/cloud_header.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+} 
+.twoColFixLtHdr #footer p {
+	margin: 0;
+	padding: 10px 0;
+	color: #FFF;
+	font-size: 80%;
+}
+.fltrt { 
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { 
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { 
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+
+h1 {
+	color: #120f69;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+#sidebar1 p {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-weight: bold;
+	font-variant: small-caps;
+	font-size: 80%;
+	margin-top: 0px;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-right-style: groove;
+	border-bottom-style: groove;
+	border-left-style: groove;
+	text-align: center;
+	background-color: #ccc;
+}
+.name_bold {
+	font-family: "Arial Black", Gadget, sans-serif;
+	color: #00548B;
+	text-transform: uppercase;
+}

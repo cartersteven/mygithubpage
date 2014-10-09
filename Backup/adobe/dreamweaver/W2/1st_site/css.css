@@ -1,0 +1,74 @@
+@charset "utf-8";
+body,td,th {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+a {
+	font-family: "Comic Sans MS", cursive;
+}
+a:link {
+	text-decoration: none;
+	color: #1D5260;
+}
+a:visited {
+	text-decoration: none;
+	color: #1D5260;
+}
+a:hover {
+	text-decoration: underline;
+	color: #5797A3;
+}
+a:active {
+	text-decoration: none;
+	color: #1D5260;
+}
+h1 {
+	color: #61091F;
+}
+h2 {
+	color: #A11E23;
+}
+
+/* CSS Document */
+
+
+#Container {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-color: #F5FFCA;
+	width: 1000px;
+	height: auto;
+	padding-top: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	cursor: auto;
+	background-repeat: repeat;
+}
+body {
+	background-image: url(../../../../Dreamweaver/W2/1st_site/images/black_woven_seamless_tile.jpg);
+}
+
+
+#Header {
+	height: 150px;
+	background-color: #F5FFCA;
+}
+#links {
+	color: #FFF;
+	height: 400px;
+	width: 200px;
+	float: left;
+	background-color: f5ffca;
+}
+#main {
+	float: right;
+	width: 790px;
+	background-color: #F5FFCA;
+}
+.flt_right {
+	float: right;
+}
+
+#footer {
+	height: 200px;
+	clear: both;
+	background-color: #F5FFCA;
+}

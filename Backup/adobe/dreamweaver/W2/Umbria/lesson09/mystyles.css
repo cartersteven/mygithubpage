@@ -1,0 +1,117 @@
+ 
+body  {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	background: #FFF;
+	margin: 0; 
+	padding: 0;
+	text-align: center; 
+	color: #000;
+}
+.twoColFixLtHdr #container {
+	width: 780px;
+	margin: 0 auto;
+	border: 1px solid #000000;
+	text-align: left;
+	background-color: #FFFFFF;
+	background-repeat: repeat-y;
+	background-position: left;
+	background-image: url(../../../../../Dreamweaver/W2/Umbria/images/line.gif);
+} 
+.twoColFixLtHdr #header {
+	padding: 0 10px 0 20px;
+	background-image: url(../../../../../Dreamweaver/W2/Umbria/images/cloud_header.jpg);
+	background-repeat: no-repeat;
+} 
+.twoColFixLtHdr #header h1 {
+	margin: 0; 
+	padding: 10px 0; 
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FFF;
+}
+
+.twoColFixLtHdr #sidebar1 {
+	float: left;
+	width: 200px;
+	padding: 15px 10px 15px 20px;
+}
+#sidebar1 p {
+	font-size: 80%;
+	font-style: italic;
+	margin-top: 0px;
+}
+
+.twoColFixLtHdr #sidebar1 a img {
+	border: 0;
+}
+#footer p a {
+	color: #FFF;
+}
+.twoColFixLtHdr #mainContent {
+	margin: 0 0 0 250px;
+	padding: 0 20px;
+	font-size: 90%;
+	position: relative;
+} 
+
+#mainContent h1, #mainContent h2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #345FA3;
+}
+.twoColFixLtHdr #footer {
+	padding: 0 10px 0 20px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #666;
+	border-right-color: #666;
+	border-bottom-color: #666;
+	border-left-color: #666;
+	background-color: #fff;
+	background-image: url(../../../../../Dreamweaver/W2/Umbria/images/cloud_header.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+} 
+.twoColFixLtHdr #footer p {
+	margin: 0;
+	padding: 10px 0;
+	color: #FFF;
+	font-size: 80%;
+}
+.fltrt { 
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { 
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { 
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+.name {
+	font-variant: small-caps;
+}
+.profile {
+	clear: right;
+	overflow: auto;
+}
+blockquote {
+	padding-right: 4px;
+	padding-left: 4px;
+	border: thin solid #00C;
+}
+table {
+	padding: 4px;
+	width: 475px;
+	border: thin solid #00C;
+	border-collapse: collapse;
+}
+th, td {
+	border: thin solid #00C;
+}
+td ul {
+	margin-left: 0px;
+	padding-left: 15px;
+}

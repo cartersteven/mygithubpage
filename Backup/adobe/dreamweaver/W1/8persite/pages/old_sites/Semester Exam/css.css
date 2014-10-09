@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body,td,th {
+	color: 1d5261;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body {
+	background-color: #f5ffc9;
+}
+a {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #a11e22;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #5697a3;
+}
+a:hover {
+	text-decoration: underline;
+	color: #610a1d;
+}
+a:active {
+	text-decoration: none;
+	color: #5697a3;
+}
+
+body,td,th {
+	color: #1d5261;
+}
+h1 {
+	font-size: 36px;
+}
+h2 {
+	font-size: 24px;
+}
+h3 {
+	font-size: 18px;
+}
